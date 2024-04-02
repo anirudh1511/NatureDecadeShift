@@ -1,0 +1,219 @@
+.copyright-20231,
+.privacy-policy1,
+.terms-conditions1 {
+  position: absolute;
+  top: 0;
+  left: 466px;
+  font-weight: 500;
+}
+.copyright-20231,
+.privacy-policy1 {
+  left: 981px;
+}
+.copyright-20231 {
+  left: 0;
+}
+.terms-conditions-group {
+  position: absolute;
+  top: 230px;
+  left: 139px;
+  width: 1101px;
+  height: 22px;
+}
+.facebook-icon1,
+.instagram-icon1,
+.x-icon1,
+.youtube-icon1 {
+  position: absolute;
+  width: calc(100% - 297px);
+  right: 0.1px;
+  bottom: 0;
+  left: 296.9px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 40px;
+}
+.facebook-icon1,
+.x-icon1,
+.youtube-icon1 {
+  width: calc(100% - 280.1px);
+  right: 180.1px;
+  left: 100px;
+}
+.facebook-icon1,
+.x-icon1 {
+  width: calc(100% - 297px);
+  right: 90.1px;
+  left: 206.9px;
+}
+.x-icon1 {
+  right: 287px;
+  left: 10px;
+}
+.follow-us3 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 64.5px);
+  font-weight: 600;
+}
+.contact-us2,
+.follow-us2 {
+  position: absolute;
+  font-size: var(--font-size-9xl);
+}
+.follow-us2 {
+  top: 40px;
+  right: 99px;
+  width: 337px;
+  height: 100px;
+  text-align: center;
+}
+.contact-us2 {
+  top: 0;
+  left: calc(50% - 76px);
+  font-weight: 600;
+}
+.xxxx1 {
+  position: absolute;
+  top: 64px;
+  left: 87px;
+}
+.helpnaturedecadeshiftcom1 {
+  position: absolute;
+  top: 98px;
+  left: 33px;
+}
+.contact-us-group {
+  position: absolute;
+  top: 39px;
+  left: 522px;
+  width: 334px;
+  height: 130px;
+  text-align: center;
+}
+.ecosystem-logo-vector-1-icon2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 42px);
+  width: 83px;
+  height: 73px;
+  object-fit: cover;
+}
+.decadeshift2 {
+  color: var(--color-limegreen-200);
+}
+.naturedecadeshift2 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 106px);
+  font-weight: 800;
+}
+.ecosystem-logo-vector-1-container {
+  position: absolute;
+  top: calc(50% - 93px);
+  left: 86px;
+  width: 212px;
+  height: 93px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-green);
+  font-family: var(--font-playfair-display);
+}
+.signature1 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-lightgoldenrodyellow);
+  height: 292px;
+  overflow: hidden;
+  color: var(--color-gray);
+  font-family: var(--font-inter);
+}
+.home2 {
+  left: 0;
+  cursor: pointer;
+}
+.contact-us3,
+.home-group,
+.home2 {
+  position: absolute;
+  top: calc(50% - 11px);
+}
+.contact-us3 {
+  left: 151px;
+  cursor: pointer;
+}
+.home-group {
+  left: calc(50% - 124px);
+  width: 247px;
+  height: 22px;
+}
+.frame-div {
+  position: absolute;
+  top: calc(50% - 47px);
+  left: 30px;
+  width: 212px;
+  height: 93px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-green);
+  font-family: var(--font-playfair-display);
+}
+.top1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-mini) var(--br-mini);
+  height: 100px;
+  overflow: hidden;
+  font-family: var(--font-inter);
+}
+.study-site2 {
+  margin: 0;
+}
+.delhi-the-capital {
+  margin: 0;
+  font-size: var(--font-size-lg);
+}
+.location-of-the,
+.study-site-delhi-container {
+  position: absolute;
+  left: 150px;
+  display: inline-block;
+  width: 1140px;
+}
+.study-site-delhi-container {
+  top: 250px;
+  font-size: var(--font-size-13xl);
+}
+.location-of-the {
+  top: 1158px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 531px;
+  left: calc(50% - 502px);
+  width: 1004px;
+  height: 597px;
+  object-fit: cover;
+}
+.being-indias-center {
+  position: absolute;
+  top: 1236px;
+  left: 150px;
+  display: inline-block;
+  width: 1140px;
+}
+.study-site1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-honeydew);
+  height: 1808px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-playfair-display);
+}
